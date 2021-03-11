@@ -1,2 +1,2 @@
-project_id = "terraform-learning-293205"
+project_id = "storied-deck-307110"
 region     = "europe-west2"
